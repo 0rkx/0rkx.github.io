@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://orkx.xyz/sitemap.xml
+
+# Crawl delay (optional - be respectful to servers)
+Crawl-delay: 1
+
+# Disallow any admin or private areas (if they exist)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow all content sections
+Allow: /#snaps
+Allow: /#experiments
+Allow: /#thoughts
+Allow: /#contact 

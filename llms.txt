@@ -1,0 +1,29 @@
+# Owais Khan's Portfolio - Internet Lab
+
+> A personal portfolio and digital playground for Owais Khan, a full-stack developer and designer. The site showcases software projects, professional experience, "lab notes" (insights), and photography "snaps". It functions as an "Internet Lab" where creative web technologies are explored.
+
+## Key Features
+
+- **Interactive Experience**: Built as a dynamic single-page application with smooth animations (using GSAP) and scroll-triggered theme changes.
+- **Showcase**: Features distinct sections for Projects, Experience, Lab Notes, and Snaps.
+- **Creative Frontend**: Employs a typewriter effect for the introduction and custom visual themes that activate as you scroll through the content.
+- **Tech Stack**: Crafted with React, TypeScript, and Vite, demonstrating modern web development practices.
+
+## Site Structure
+
+- [Home](/#home): The main landing section with an introduction and personal philosophy.
+- [Lab Notes](/#lab-notes): A collection of thoughts, findings, and development insights.
+- [Experience](/#experience): A summary of professional roles and accomplishments.
+- [Projects](/#projects): A curated list of software projects and experiments.
+- [Snaps](/#snaps): A visual gallery of photography.
+- [Contact](/#contact): Information for getting in touch.
+
+## Purpose
+
+This website is intended for:
+- **Recruiters & Collaborators**: To provide a comprehensive overview of Owais Khan's skills, experience, and work.
+- **AI & Web Crawlers**: To offer a structured, machine-readable summary of the portfolio's content and purpose.
+- **Fellow Developers**: To share knowledge, experiments, and creative approaches to web development.
+
+Optional:
+- [Extended Context](https://www.owaiskhan.me/llms-full.txt) 
